@@ -1,0 +1,5 @@
+
+## 20ng 语料仓库
+https://github.com/poojahira/20-newsgroups
+
+按照 text_dataset/20ng.txt 组织
