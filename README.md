@@ -1,10 +1,14 @@
-基于 **MA-GCN**的文本数据分类
+基于 **MA-GCN**的文本数据分类(text cluster base on AM-GCN)
+
 that job you can ask `TEXT-AM-GCN`
+
 that job base on `GCN`,`TEXT-GCN`,`AM-GCN`
 
-src:项目源码
-pre:前置项目
-reference：参考文件
+that project just a stu demo
+
+src:project source code
+pre:pre stu source code
+reference:reference doc
 
 
 ```bash
