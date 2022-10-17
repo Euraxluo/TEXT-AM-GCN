@@ -1,4 +1,4 @@
-基于 **MA-GCN**的文本数据分类(text cluster base on AM-GCN)
+基于 **AM-GCN**的文本数据分类(text cluster base on AM-GCN)
 
 that job you can ask `TEXT-AM-GCN`
 
